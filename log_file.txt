@@ -1,0 +1,9 @@
+2019-01-25 22:25:08.287378 my_foo ('sds', 'ssg', 'sgf') {'multi': 2} ('sds', 'ssg', 'sgf', 'sds', 'ssg', 'sgf')
+2019-01-25 22:25:19.316492 my_foo ('sds', 'ssg', 'sgf') {'multi': 2} ('sds', 'ssg', 'sgf', 'sds', 'ssg', 'sgf')
+2019-01-25 22:25:20.554059 my_foo ('sds', 'ssg', 'sgf') {'multi': 2} ('sds', 'ssg', 'sgf', 'sds', 'ssg', 'sgf')
+2019-01-25 22:27:07.943873 my_foo ('sds', 'ssg', 'sgf') {'multi': 2} ('sds', 'ssg', 'sgf', 'sds', 'ssg', 'sgf')
+2019-01-25 22:27:13.440225 my_foo ('sds', 'ssg', 'sgf') {'multi': 2} ('sds', 'ssg', 'sgf', 'sds', 'ssg', 'sgf')
+2019-01-25 22:27:13.441223 my_iter ('result_countries.txt',) {} <generator object my_iter at 0x00A5AEB0>
+2019-01-25 22:45:27.536113 my_foo ('sds', 'ssg', 'sgf') {'multi': 2} ('sds', 'ssg', 'sgf', 'sds', 'ssg', 'sgf')
+2019-01-25 22:46:27.088212 my_foo ('sds', 'ssg', 'sgf') {'multi': 2} ('sds', 'ssg', 'sgf', 'sds', 'ssg', 'sgf')
+2019-01-25 22:46:27.089209 my_iter ('result_countries.txt',) {} <generator object my_iter at 0x00FFAEF0>
